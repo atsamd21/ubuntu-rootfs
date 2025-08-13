@@ -1,1 +1,1 @@
-Ubuntu rootfs with Java 21, Tor and Haveno daemon
+Ubuntu rootfs with Java 21 and Tor
